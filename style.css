@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+
+
+.dados {
+    text-align: center;
+}
+
+/* Formatar a imagem com cantos arredondados */
+img {
+    border-radius: 50%;
+}
+
+/*  Formatar Titulo com ID */
+#cv {
+    font-family: "Montserrat", sans-serif;
+    color: aquamarine
+}
+
+.logoparis {
+    width: 70px height: auto;
+    border-radius: 50%;
+    margin-right: 50px
+}
+
+.titulo {
+    background-color: chocolate
+}
+
+.box {
+    widht: 300px;
+    /* O alinhamento da <div> */
+    display: inline-block;
+    /* mudando a margem direita */
+    margin-right: 150px;
+    /* colocando borda na <div> */
+    border: 10px solid red;
+
+}
